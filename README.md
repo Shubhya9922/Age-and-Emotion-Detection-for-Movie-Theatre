@@ -23,7 +23,7 @@ git clone https://github.com/Shubhya9922/Age-and-Emotion-Detection-for-Movie-The
 
 Install the required dependencies:
 
-pip install -r requirements.txt
+pip install ``-r requirements.txt``
 
 Run the script:
 
