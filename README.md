@@ -17,6 +17,15 @@ Data Logging (Planned): Stores detected age, emotion, and entry time into an Exc
 
 How to Use
 
+Use the Models:
+
+Emotion detection model - https://drive.google.com/file/d/1DpYrgR_PK7Cjn7WhSVawOABDZXsr0FTt/view?usp=drive_link
+
+Age Detection Model - https://drive.google.com/file/d/1zzjmknRdB78coz-aSYcqXqYtpO9tNeN0/view?usp=drive_link
+
+Age Detection Model ( in rar) - https://drive.google.com/file/d/1E4LKdRM4nWrn1qMEavfieUWaGsL1bSs5/view?usp=drive_link
+
+
 Clone the repository:
 
 git clone https://github.com/Shubhya9922/Age-and-Emotion-Detection-for-Movie-Theatre
