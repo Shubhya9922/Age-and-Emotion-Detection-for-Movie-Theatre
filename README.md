@@ -36,6 +36,6 @@ pip install ``-r requirements.txt``
 
 Run the script:
 
-python main.py
+python gui.py
 
 Upload a video feed or use a webcam to start real-time detection.
