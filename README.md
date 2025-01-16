@@ -15,7 +15,9 @@ Data Logging (Planned): Stores detected age, emotion, and entry time into an Exc
 
 
 
+
 How to Use
+
 
 Use the Models:
 
@@ -30,9 +32,11 @@ Clone the repository:
 
 git clone https://github.com/Shubhya9922/Age-and-Emotion-Detection-for-Movie-Theatre
 
+
 Install the required dependencies:
 
 pip install ``-r requirements.txt``
+
 
 Run the script:
 
