@@ -19,7 +19,7 @@ How to Use
 
 Clone the repository:
 
-git clone <repository_url>
+git clone https://github.com/Shubhya9922/Age-and-Emotion-Detection-for-Movie-Theatre
 
 Install the required dependencies:
 
